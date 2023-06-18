@@ -34,3 +34,7 @@ Sun Jun 18 13:19:36 2023 CALCULATE (5, 3, '+') {} 8
 Sun Jun 18 13:19:36 2023 CALCULATE (10, 7, '-') {} 3
 Sun Jun 18 13:19:36 2023 CALCULATE (4, 6, '*') {} 24
 Sun Jun 18 13:19:36 2023 CALCULATE (8, 2, '/') {} 4.0
+Sun Jun 18 18:02:01 2023 CALCULATE (5, 3, '+') {} 8
+Sun Jun 18 18:02:01 2023 CALCULATE (10, 7, '-') {} 3
+Sun Jun 18 18:02:01 2023 CALCULATE (4, 6, '*') {} 24
+Sun Jun 18 18:02:01 2023 CALCULATE (8, 2, '/') {} 4.0
